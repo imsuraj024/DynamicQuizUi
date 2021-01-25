@@ -1,0 +1,326 @@
+{
+  "no_of_parts": 2,
+  "total_question": 10,
+  "total_time": 1,
+  "total_marks": 70,
+  "negative_marks": 1,
+  "quiz_for_courses": 0,
+  "question_ids": [
+    {
+      "question_description": [
+        {
+          "language_type": 1,
+          "text": "uyuuyuyyuyuyuyuyuyu"
+        },
+        {
+          "language_type": 2,
+          "text": "Descyuyuuyuyyuyuyu"
+        }
+      ],
+      "question_type": 2,
+      "column_a": [],
+      "column_b": [],
+      "options": [
+        {
+          "language_type": 1,
+          "text": "optiqon1"
+        },
+        {
+          "language_type": 2,
+          "text": "oeption1"
+        },
+        {
+          "language_type": 1,
+          "text": "optiotn3"
+        },
+        {
+          "language_type": 1,
+          "text": "optieon4"
+        },
+        {
+          "language_type": 1,
+          "text": "optionr2"
+        },
+        {
+          "language_type": 2,
+          "text": "optionweqw2"
+        },
+        {
+          "language_type": 2,
+          "text": "optiosdfdfn3"
+        },
+        {
+          "language_type": 2,
+          "text": "optsdfion4"
+        }
+      ],
+      "_id": "5ffbf46d909dd36b372b7014",
+      "question_slug": "mcq 4"
+    },
+    {
+      "question_description": [
+        {
+          "language_type": 1,
+          "text": "dsssldslkfjkldsjfkldsjflsdjflkdsfjkldsjflkdsjfkldsjklfjdksljfkldsjklfjkldsfjlkdsjklfjdslkfjlkdsjklfjdsklfssssss"
+        },
+        {
+          "language_type": 2,
+          "text": "Dskldfjlkdsjflkdsjfkldsjflkdsjfldsjfklsdfjlsdjfkldsjklfsdlkfjlksdfjesc"
+        }
+      ],
+      "question_type": 2,
+      "column_a": [],
+      "column_b": [],
+      "options": [
+        {
+          "language_type": 1,
+          "text": "optdion1"
+        },
+        {
+          "language_type": 2,
+          "text": "gsdfdsf"
+        },
+        {
+          "language_type": 1,
+          "text": "option3"
+        },
+        {
+          "language_type": 1,
+          "text": "sds"
+        },
+        {
+          "language_type": 1,
+          "text": "sd44"
+        },
+        {
+          "language_type": 2,
+          "text": "s4tgr"
+        },
+        {
+          "language_type": 2,
+          "text": "oprerertion3"
+        },
+        {
+          "language_type": 2,
+          "text": "gfgfdgtgt"
+        }
+      ],
+      "_id": "5ffbf469909dd36b372b7013",
+      "question_slug": "mcq 3"
+    },
+    {
+      "question_description": [
+        {
+          "language_type": 1,
+          "text": "dsssssssss"
+        },
+        {
+          "language_type": 2,
+          "text": "Desc"
+        }
+      ],
+      "question_type": 2,
+      "column_a": [],
+      "column_b": [],
+      "options": [
+        {
+          "language_type": 1,
+          "text": "option1"
+        },
+        {
+          "language_type": 2,
+          "text": "option1"
+        },
+        {
+          "language_type": 1,
+          "text": "option3"
+        },
+        {
+          "language_type": 1,
+          "text": "option4"
+        },
+        {
+          "language_type": 1,
+          "text": "option2"
+        },
+        {
+          "language_type": 2,
+          "text": "option2"
+        },
+        {
+          "language_type": 2,
+          "text": "option3"
+        },
+        {
+          "language_type": 2,
+          "text": "option4"
+        }
+      ],
+      "_id": "5ffbf465909dd36b372b7012",
+      "question_slug": "mcq 2"
+    },
+    {
+      "question_description": [
+        {
+          "language_type": 1,
+          "text": "match the followng  things"
+        }
+      ],
+      "question_type": 2,
+      "column_a": [
+        {
+          "language_type": 1,
+          "text": "SNOW"
+        },
+        {
+          "language_type": 1,
+          "text": "LEAF"
+        },
+        {
+          "language_type": 1,
+          "text": "SKY"
+        },
+        {
+          "language_type": 1,
+          "text": "BLOOD"
+        }
+      ],
+      "column_b": [
+        {
+          "language_type": 1,
+          "text": "BLUE"
+        },
+        {
+          "language_type": 1,
+          "text": "RED"
+        },
+        {
+          "language_type": 1,
+          "text": "GREEN"
+        },
+        {
+          "language_type": 1,
+          "text": "WHITE"
+        }
+      ],
+      "options": [],
+      "_id": "6009bb654b291e229c0d23e2",
+      "question_slug": "match the followng  things"
+    },
+    {
+      "question_description": [
+        {
+          "language_type": 1,
+          "text": "match the following"
+        }
+      ],
+      "question_type": 2,
+      "column_a": [
+        {
+          "language_type": 1,
+          "text": "NEPHEW"
+        },
+        {
+          "language_type": 1,
+          "text": "BROTHER"
+        },
+        {
+          "language_type": 1,
+          "text": "FATHER"
+        },
+        {
+          "language_type": 1,
+          "text": "UNCLE"
+        }
+      ],
+      "column_b": [
+        {
+          "language_type": 1,
+          "text": "MOTHER"
+        },
+        {
+          "language_type": 1,
+          "text": "NIECE"
+        },
+        {
+          "language_type": 1,
+          "text": "SISTER"
+        },
+        {
+          "language_type": 1,
+          "text": "AUNT"
+        }
+      ],
+      "options": [],
+      "_id": "6009bc6e4b291e229c0d23e3",
+      "question_slug": "match the following"
+    },
+    {
+      "question_description": [
+        {
+          "language_type": 1,
+          "text": "5 comes after 7"
+        }
+      ],
+      "question_type": 3,
+      "column_a": [],
+      "column_b": [],
+      "options": [
+        {
+          "language_type": 1,
+          "text": "true"
+        },
+        {
+          "language_type": 1,
+          "text": "false"
+        }
+      ],
+      "_id": "6000221eccf75f71c342fe16",
+      "question_slug": "5 comes after 7"
+    },
+    {
+      "question_description": [
+        {
+          "language_type": 1,
+          "text": "6 comes after 7"
+        }
+      ],
+      "question_type": 3,
+      "column_a": [],
+      "column_b": [],
+      "options": [
+        {
+          "language_type": 1,
+          "text": "true"
+        },
+        {
+          "language_type": 1,
+          "text": "false"
+        }
+      ],
+      "_id": "60002243ccf75f71c342fe17",
+      "question_slug": "5 comes after 7"
+    }
+  ],
+  "subject": [],
+  "topic": [],
+  "sub_topic": [],
+  "languages_present": [],
+  "attempted_type": 1,
+  "difficulty_level": 0,
+  "quiz_type": 1,
+  "has_verified_answer": 1,
+  "is_active": 1,
+  "is_draft": 0,
+  "updated_by": null,
+  "updated_by_user_type": null,
+  "_id": "5ffbfa4b7e8738710884acb8",
+  "business_id": 2,
+  "quiz_name": "mcq quiz 2",
+  "quiz_description": "dsssssssss",
+  "created_at": "2021-01-11T07:12:11.743Z",
+  "updated_at": "2021-01-11T07:12:11.743Z",
+  "__v": 0,
+  "expire_at": 1641895221,
+  "start_date": 1609459200
+}
